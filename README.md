@@ -71,11 +71,12 @@ A collection of cloud-based applications demonstrating AWS services and deployme
 ## 📫 Let's Connect
 
 * GitHub: [@ar-ju-n](https://github.com/ar-ju-n)
-* LinkedIn: *(Add if available)*
-* Portfolio: *(Optional)*
+* LinkedIn: www.linkedin.com/in/arjunthapa25
+
 
 ---
 
 ⭐ *If you like my work, consider giving a star to my repositories!*
 
 Thanks for visiting my profile 🙌
+
