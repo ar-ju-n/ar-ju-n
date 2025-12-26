@@ -1,19 +1,81 @@
-<h1 align="center">Hi 👋, I'm Arjun Thapa</h1>
-<h3 align="center">Motivate to develop</h3>
+# 👋 Hi, I'm Arjun Thapa
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ar-ju-n" alt="ar-ju-n" /></a> </p>
+🚀 **Software Developer | Web Developer | Graphic Designer**
 
-- 💬 Ask me about **music and you**
+I'm a passionate developer and designer who loves building practical, scalable, and visually engaging digital products. I enjoy working across the stack—from backend logic to clean, user-focused interfaces—and I'm constantly exploring new technologies.
 
-- 📫 How to reach me **jung.arjun.thapa25@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/0__alphabeta__0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="0__alphabeta__0" height="30" width="40" /></a>
-</p>
+## 🧠 About Me
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+* 💻 Software & Web Developer with hands-on project experience
+* 🎨 Trained Graphic Designer (Animax Animation Academy)
+* 🌐 Background in **Virtual Technology** as a Web Developer
+* 🐧 Linux enthusiast (Arch Linux user)
+* 📚 Always learning, always building
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ar-ju-n&show_icons=true&locale=en&layout=compact" alt="ar-ju-n" /></p>
+---
 
+## 🛠️ Tech Stack
+
+### 💡 Languages
+
+* Python
+* JavaScript
+* HTML5 / CSS3
+
+### ⚙️ Frameworks & Tools
+
+* Flask / FastAPI
+* React (basic–intermediate)
+* Git & GitHub
+* Docker (basic)
+* Linux (Arch, Debian-based)
+
+### 🎨 Design Tools
+
+* Figma
+* Adobe Photoshop
+* Adobe Illustrator
+* Open-source design tools (Linux-first workflow)
+
+---
+
+## 📌 Featured Projects
+
+🔹 **TelePsych**
+A tele-psychology platform focused on remote mental health support using modern web technologies.
+
+🔹 **Elder Care System**
+A digital solution designed to assist elder care management, monitoring, and service coordination.
+
+🔹 **Online Retail Store**
+A full-stack retail application showcasing product management, user flow, and backend integration.
+
+🔹 **AWS Applications**
+A collection of cloud-based applications demonstrating AWS services and deployment workflows.
+
+➡️ *Check my repositories for more!*
+
+---
+
+## 🎯 What I’m Focused On
+
+* Building real-world, production-ready applications
+* Improving backend architecture & API design
+* Merging strong UI/UX with solid engineering
+* Open-source contributions
+
+---
+
+## 📫 Let's Connect
+
+* GitHub: [@ar-ju-n](https://github.com/ar-ju-n)
+* LinkedIn: *(Add if available)*
+* Portfolio: *(Optional)*
+
+---
+
+⭐ *If you like my work, consider giving a star to my repositories!*
+
+Thanks for visiting my profile 🙌
